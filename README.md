@@ -25,10 +25,10 @@ const Mansi =
   code: [C, Python, HTML, CSS, SQL],
   tools: [SQL, CodeBlocks, PyCharm, Jupyter Notebook],
   beleif: "Use your Brain as a Processor, not as a Hard Disk!"
-  currentFocus: "Competitive Programming using Python and Deep Dive into AI!"
+  focus: "Competitive Programming using Python and Deep Dive into AI!"
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I Love Connecting with Different People</b> So If You Want to Say <b>Hi, I'll Be Happy to Meet You More!</b> :)</em>
 
 ---
