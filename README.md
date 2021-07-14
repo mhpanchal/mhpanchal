@@ -1,4 +1,10 @@
-<h2> Hi, I'm Mansi Panchal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines= I + am + a + proGrAMmER; {Decode + it}; &center=true&size=30">
+  </a>
+</h1>
+
+<h2> नमस्ते (Namaste), I'm Mansi Panchal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Computer Engineer Student at Vishwakarma Government Engineering College <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </br>Pythonista<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -10,8 +16,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-# I am a proGrAMmER {Decode it},.
-## A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.
+#### A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.
 
 ```javascript
 const Mansi = {
