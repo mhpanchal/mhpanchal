@@ -12,10 +12,10 @@
 [![GitHub mhpanchal](https://img.shields.io/github/followers/mhpanchal?label=follow&style=social)](https://github.com/mhpanchal)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 #### A Person to whom Computers Fascinate more than Humans! 😅
-#### When I'm not writing Code, I enjoy Musicand Love Exploring in the DOmain of Artificial Intelligence.
+#### When I'm not writing Code, I enjoy Music and Love Exploring in the DOmain of Artificial Intelligence.
 
 ```javascript
 const Mansi = 
