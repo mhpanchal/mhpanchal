@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+proGrAMmER; {Decode+it};&center=true&size=30">
-  </a>
+  I am a proGrAMmER {Decode it};
 </h1>
 
 <h2> नमस्ते (Namaste), I'm Mansi Panchal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
