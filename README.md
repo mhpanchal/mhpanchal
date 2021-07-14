@@ -23,11 +23,11 @@ const Mansi =
   pronouns: "she" | "her",
   code: [C, Python, HTML, CSS, SQL],
   tools: [SQL, CodeBlocks, PyCharm, Jupyter Notebook],
-  beleif: "Use your Brain as a Processor, not as a Hard Disk!"
+  beleif: "Use your Brain as a Processor, not as a Hard Disk!",
   focus: "Competitive Programming using Python and Deep Dive into AI!"
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I Love Connecting with Different People</b> So If You Want to Say <b>Hi, I'll Be Happy to Meet You More!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I Love Connecting with Different People.</b> So If You Want to Say <b>Hi, I'll Be Happy to Meet You More!</b> :)</em>
 
 ---
