@@ -14,9 +14,8 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-#### A Person to whom Computers Fascinate more than Humans. 
-
-#### When I'm not writing Code, I enjoy Musicand Love Exploring 
+#### A Person to whom Computers Fascinate more than Humans! 😅
+#### When I'm not writing Code, I enjoy Musicand Love Exploring in the DOmain of Artificial Intelligence.
 
 ```javascript
 const Mansi = 
