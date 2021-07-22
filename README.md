@@ -1,4 +1,4 @@
-![Welcome to Mansi Panchal's Github Profile][./imgs/banner/MHPanchal_Banner.png]
+![Welcome to Mansi Panchal's Github Profile](./imgs/banner/MHPanchal_Banner.png)
 
 
 <h1 align="center">
