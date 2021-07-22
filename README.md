@@ -1,4 +1,5 @@
-![Welcome to Mansi Panchal's Github Profile][main-banner-path]
+![Welcome to Mansi Panchal's Github Profile][./imgs/banner/MHPanchal_Banner.png]
+
 
 <h1 align="center">
   I am a proGrAMmER {Decode it};
@@ -33,10 +34,3 @@ const Mansi =
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I Love Connecting with Different People.</b> So If You Want to Say <b>Hi, I'll Be Happy to Meet You More!</b> :)</em>
 
 ---
-
-![Mansi's github stats][github-stats]
-![Top Langs][top-lang-stats]
-
-[main-banner-path]:./imgs/banner/MHPanchal_Banner.png
-[github-stats]:https://github-readme-stats.vercel.app/api?username=mhpanchal&show_icons=true&theme=highcontrast
-[top-lang-stats]:https://github-readme-stats.vercel.app/api/top-langs/?username=mhpanchal&layout=compact&theme=highcontrast&hide=jupyter%20notebook
