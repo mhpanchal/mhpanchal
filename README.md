@@ -11,7 +11,7 @@
   </br>Pythonista by Heart<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-mhpanchal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mhpanchal/)](https://www.linkedin.com/in/mhpanchal/)
+[![Linkedin Badge](https://img.shields.io/badge/-mhpanchal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mhpanchal/)](https://www.linkedin.com/in/mhpanchal/)<br>
 [![GitHub mhpanchal](https://img.shields.io/github/followers/mhpanchal?label=follow&style=social)](https://github.com/mhpanchal)
 
 
