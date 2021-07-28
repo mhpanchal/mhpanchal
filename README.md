@@ -12,7 +12,7 @@
 </em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-mhpanchal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mhpanchal/)](https://www.linkedin.com/in/mhpanchal/)<br>
-[![GitHub mhpanchal](https://img.shields.io/github/followers/mhpanchal?style=social)](https://github.com/mhpanchal)
+[![GitHub mhpanchal](https://img.shields.io/github/mhpanchal?style=social)](https://github.com/mhpanchal)
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about ME...  
